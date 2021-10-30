@@ -1,7 +1,7 @@
 #             CONTRIBUTER
 
-               **HARSH**
+                 HARSH
                
-               **KUMAR**
+                 KUMAR
                
-               **SINGH**
+                 SINGH
